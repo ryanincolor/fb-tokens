@@ -427,28 +427,17 @@
     "selectedTokenSets": {
       "Core/Border Radius": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:1:5",
-    "$figmaModeId": "4:6",
+    "$figmaCollectionId": "VariableCollectionId:5:2",
+    "$figmaModeId": "5:0",
     "$figmaVariableReferences": {
-      "spacing.2": "5ff352d78cdcd1b29f4d844d9000f9f1a810b911",
-      "spacing.4": "d3257b1da0a17c0185f1790563694934c741b5ac",
-      "spacing.8": "3de2ac76ec0ec30e6b089383bea4316898c18f19",
-      "spacing.12": "5e7c33cb9af957be1f42aa98f5f1f99209022075",
-      "spacing.16": "a66bddb33c39d51acb40996c24d64ae36e5463da",
-      "spacing.20": "cb23563932871cf702a3abbdfc274e4f03191ea1",
-      "spacing.24": "c7a48d08d2b96ca904281004d327a68af853bd44",
-      "spacing.28": "4b6526bfe17d98e57d63af87b8b1f8e61ba66180",
-      "spacing.32": "be603c9d841613fe9e1f55737396cbc2e1357e7b",
-      "spacing.36": "0e126fce480e74165dfdbe96bd0ffb20b5b72c9e",
-      "spacing.40": "5f45aacecd73291729542df09429fa8f07fdcf6b",
-      "spacing.44": "44595c852ed11295ae5bbd126de49be10332e56a",
-      "spacing.48": "dbb2c01094b84420290a55e199c66c44c2bc74b3",
-      "spacing.56": "8371149e557b723d5b956ad725a84177e960fe38",
-      "spacing.64": "b754df18f1ced7ee532e92e43f65eebff73f83b5",
-      "spacing.72": "f50ee2786d448ec56bf3ba81793de65364056bab",
-      "spacing.80": "2501508515388c3bffa6082094f449695532e687",
-      "spacing.96": "58ee5bebe02cfbbba08a5bbb118acd03e7d11a1c",
-      "spacing.128": "7c0868dc2ffb77f7ade5046a1cb758790befaaf9"
+      "border-radius.8": "4fe6c8508f4aa3c52530a00aff8387b6f6171065",
+      "border-radius.12": "4b7a4c60cd574fce1bf96ae4d15839d69653209c",
+      "border-radius.16": "ffdae6f616a619c689bdf77d0d92be656ae7ed53",
+      "border-radius.20": "de295daaa14eeaac0b3d6a4b9bdc50ed4f61c95f",
+      "border-radius.24": "cbbe610799e99918735c1ac6e00113851328aad3",
+      "border-radius.28": "478f2b9d53f3ea4138d8dd4efbf645b3230460dc",
+      "border-radius.36": "8ea793d207933e86a7710bb8ce1be7f74a9adbda",
+      "border-radius.40": "3eb0bcf6ca00eeccc6ebef99ce357f49f2a65f26"
     },
     "group": "Core/Border Radius"
   },
