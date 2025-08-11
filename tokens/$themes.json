@@ -352,5 +352,104 @@
       "color.hues.blue": "d3049cdba9ee660573439f86848eefdc2fb546c9",
       "color.hues.yellow": "9383fcd06297559d9335bcd5c5962d7123c6e5f6"
     }
+  },
+  {
+    "id": "c0a7881f67a099db72a7eb96c28893c88dda33bd",
+    "name": "Primitive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Spacing": "enabled"
+    },
+    "group": "Core/Spacing",
+    "$figmaCollectionId": "VariableCollectionId:1:2",
+    "$figmaModeId": "4:4",
+    "$figmaVariableReferences": {
+      "spacing.2": "8b33a3a262b2097417f40d4a3e549d65457c6e2c",
+      "spacing.4": "b97ed81168f7e94f131c3dfd3b4efa7a1e3b1f30",
+      "spacing.8": "149149044e653b1a3d534467082bc6366d40e131",
+      "spacing.12": "2bbdf4980e6a38f8f582a4aaf5817043f78787b4",
+      "spacing.16": "ce9c0287f7adb6af269287c680ad10a797f2a764",
+      "spacing.20": "e34754de70b44d59b4634c96f0e000dc18c7c7a3",
+      "spacing.24": "ca6c25411fbc3b0aee60a8d0e85ef8ae75e1c7bb",
+      "spacing.28": "11573320fbe0fa3c56dd132ebe278a9f4fcbebad",
+      "spacing.32": "7708c1e171c419a1d8a87ab79d3424248e95ea4c",
+      "spacing.36": "5e4723c7c32274ea30b89366b41acaecf7de8d84",
+      "spacing.40": "850582b764340d980796b9cd61083b94026c2c9f",
+      "spacing.44": "ac79e3466002da0afe6dd12cc0dc0b93468670e9",
+      "spacing.48": "117021c0c7f21e11f045dae8b23c772a472753a7",
+      "spacing.56": "5a8052691f85acf14700e26b2a33c938f3427bb1",
+      "spacing.64": "f940d257dc9cab5c907511999b2828b53d1d2e2a",
+      "spacing.72": "7ff919ca5f600456290d4778144a86a3722f65a0",
+      "spacing.80": "cb2134fcb9e6a433986218fbd8a8e97570e94c70",
+      "spacing.96": "369fec096e2d5896e0975025fb069c883df20c91",
+      "spacing.128": "c1cd1ba8da6a735062fa7816474e93cedd66cf9e"
+    }
+  },
+  {
+    "id": "861c05099ad4c6ec0f47fb6f6d83711c48751b99",
+    "name": "Primitive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Typography": "enabled"
+    },
+    "group": "Core/Typography",
+    "$figmaCollectionId": "VariableCollectionId:1:4",
+    "$figmaModeId": "4:5",
+    "$figmaVariableReferences": {
+      "font.family.sans": "3f6d43aaff1e50aea4cd34a227a960c10ad6e7fd",
+      "font.family.mobile": "4b0b08a3645b53bb5a421e6d986c4ae50401a25f",
+      "font.family.web": "b16b80698c300e2d2bd3c665e4fc84ac239d213d",
+      "font.size.10": "98fa78c828f37366575c9bcd4a248c3ddb013115",
+      "font.size.12": "8e3b38df78938cdf2207ee3cf31dd31e120df8ab",
+      "font.size.14": "4a4838d0a281c1b58fdfef6a5214fb554df9ae3f",
+      "font.size.16": "7e915d1c39be33ae1f20037613d3800901bf4fb2",
+      "font.size.18": "c02b63361a1de281544d12b76ad9b958e74d3345",
+      "font.size.20": "094b1dca933ab4b144816e27354754fd30425f79",
+      "font.size.24": "7b4a1f7c22564c636608f174a81d153ccc672fae",
+      "font.size.28": "1f2c8326ce5986e483058789526c7b1d06f8c4e9",
+      "font.size.34": "9b4c31ee7406fe4d1bc215977de41e2c01691f93",
+      "font.size.40": "36e532857278daccadc1bb231bef93162eecd51c",
+      "font.size.48": "5876b6602f8a26300a69d21426769e5721965a9c",
+      "font.size.56": "845caf12ac4ab1c3d87e346caa5bed2b80ff6f10",
+      "font.size.64": "24ef1b35dbaaf3dabf1240b7f9d508ab7678e603",
+      "font.size.72": "67395ba6cc2decab4594418f67573a6992eed49f",
+      "font.size.96": "8a188c2e114ce818a6f30f1f52fd5ddd016554dc",
+      "font.weight.400": "87f4c2151e2992d538dc1582cc6f8146ac9347f2",
+      "font.weight.500": "a68ca10260b29f78ac3e5da0b10adc26de65bd42",
+      "font.weight.600": "c33421892f8e990d3f6050842f65cd8ba5ae93af",
+      "font.weight.700": "9031c46b71bc1d98890befe86eab0d8c39197d6b"
+    }
+  },
+  {
+    "id": "4ae063c57ccab698534938de2f173e04e9de9cad",
+    "name": "Primitive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Spacing": "enabled"
+    },
+    "group": "Core/Border Radius",
+    "$figmaCollectionId": "VariableCollectionId:1:5",
+    "$figmaModeId": "4:6",
+    "$figmaVariableReferences": {
+      "spacing.2": "5ff352d78cdcd1b29f4d844d9000f9f1a810b911",
+      "spacing.4": "d3257b1da0a17c0185f1790563694934c741b5ac",
+      "spacing.8": "3de2ac76ec0ec30e6b089383bea4316898c18f19",
+      "spacing.12": "5e7c33cb9af957be1f42aa98f5f1f99209022075",
+      "spacing.16": "a66bddb33c39d51acb40996c24d64ae36e5463da",
+      "spacing.20": "cb23563932871cf702a3abbdfc274e4f03191ea1",
+      "spacing.24": "c7a48d08d2b96ca904281004d327a68af853bd44",
+      "spacing.28": "4b6526bfe17d98e57d63af87b8b1f8e61ba66180",
+      "spacing.32": "be603c9d841613fe9e1f55737396cbc2e1357e7b",
+      "spacing.36": "0e126fce480e74165dfdbe96bd0ffb20b5b72c9e",
+      "spacing.40": "5f45aacecd73291729542df09429fa8f07fdcf6b",
+      "spacing.44": "44595c852ed11295ae5bbd126de49be10332e56a",
+      "spacing.48": "dbb2c01094b84420290a55e199c66c44c2bc74b3",
+      "spacing.56": "8371149e557b723d5b956ad725a84177e960fe38",
+      "spacing.64": "b754df18f1ced7ee532e92e43f65eebff73f83b5",
+      "spacing.72": "f50ee2786d448ec56bf3ba81793de65364056bab",
+      "spacing.80": "2501508515388c3bffa6082094f449695532e687",
+      "spacing.96": "58ee5bebe02cfbbba08a5bbb118acd03e7d11a1c",
+      "spacing.128": "7c0868dc2ffb77f7ade5046a1cb758790befaaf9"
+    }
   }
 ]
