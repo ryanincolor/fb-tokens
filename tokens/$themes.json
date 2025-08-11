@@ -451,5 +451,35 @@
       "spacing.96": "58ee5bebe02cfbbba08a5bbb118acd03e7d11a1c",
       "spacing.128": "7c0868dc2ffb77f7ade5046a1cb758790befaaf9"
     }
+  },
+  {
+    "id": "269fdc4e7e8b6dae339c12be1075d91d653cd631",
+    "name": "Semantic",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Spacing": "source",
+      "iOS/Spacing": "enabled"
+    },
+    "group": "iOS/Spacing"
+  },
+  {
+    "id": "7bb20d4c4cf1d20520a91a2ec35fd373d6d082a1",
+    "name": "Semantic",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Typography": "source",
+      "iOS/Typography": "enabled"
+    },
+    "group": "iOS/Typography"
+  },
+  {
+    "id": "27f0d4d67dcaf8348b2e0eb7d548ba397bcbf223",
+    "name": "Border Radius",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Border Radius": "source",
+      "iOS/Border Radius": "enabled"
+    },
+    "group": "iOS"
   }
 ]
