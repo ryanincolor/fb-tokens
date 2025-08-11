@@ -2,132 +2,132 @@
   "font": {
     "family": {
       "sans": {
-        "$type": "fontFamilies",
-        "$value": "'Inter', sans-serif"
+        "value": "'Inter', sans-serif",
+        "type": "fontFamilies"
       },
       "mobile": {
-        "$type": "fontFamilies",
-        "$value": "'Inter', sans-serif"
+        "value": "'Inter', sans-serif",
+        "type": "fontFamilies"
       },
       "web": {
-        "$type": "fontFamilies",
-        "$value": "'Inter', sans-serif"
+        "value": "'Inter', sans-serif",
+        "type": "fontFamilies"
       }
     },
     "size": {
       "10": {
-        "$type": "fontSizes",
-        "$value": "10"
+        "value": "10",
+        "type": "fontSizes"
       },
       "12": {
-        "$type": "fontSizes",
-        "$value": "12"
+        "value": "12",
+        "type": "fontSizes"
       },
       "14": {
-        "$type": "fontSizes",
-        "$value": "14"
+        "value": "14",
+        "type": "fontSizes"
       },
       "16": {
-        "$type": "fontSizes",
-        "$value": "16"
+        "value": "16",
+        "type": "fontSizes"
       },
       "18": {
-        "$type": "fontSizes",
-        "$value": "18"
+        "value": "18",
+        "type": "fontSizes"
       },
       "20": {
-        "$type": "fontSizes",
-        "$value": "20"
+        "value": "20",
+        "type": "fontSizes"
       },
       "24": {
-        "$type": "fontSizes",
-        "$value": "24"
+        "value": "24",
+        "type": "fontSizes"
       },
       "28": {
-        "$type": "fontSizes",
-        "$value": "28"
+        "value": "28",
+        "type": "fontSizes"
       },
       "34": {
-        "$type": "fontSizes",
-        "$value": "34"
+        "value": "34",
+        "type": "fontSizes"
       },
       "40": {
-        "$type": "fontSizes",
-        "$value": "40"
+        "value": "40",
+        "type": "fontSizes"
       },
       "48": {
-        "$type": "fontSizes",
-        "$value": "48"
+        "value": "48",
+        "type": "fontSizes"
       },
       "56": {
-        "$type": "fontSizes",
-        "$value": "56"
+        "value": "56",
+        "type": "fontSizes"
       },
       "64": {
-        "$type": "fontSizes",
-        "$value": "64"
+        "value": "64",
+        "type": "fontSizes"
       },
       "72": {
-        "$type": "fontSizes",
-        "$value": "72"
+        "value": "72",
+        "type": "fontSizes"
       },
       "96": {
-        "$type": "fontSizes",
-        "$value": "96"
+        "value": "96",
+        "type": "fontSizes"
       }
     },
     "weight": {
       "400": {
-        "$type": "fontWeights",
-        "$value": "400"
+        "value": "400",
+        "type": "fontWeights"
       },
       "500": {
-        "$type": "fontWeights",
-        "$value": "500"
+        "value": "500",
+        "type": "fontWeights"
       },
       "600": {
-        "$type": "fontWeights",
-        "$value": "600"
+        "value": "600",
+        "type": "fontWeights"
       },
       "700": {
-        "$type": "fontWeights",
-        "$value": "700"
+        "value": "700",
+        "type": "fontWeights"
       }
     },
     "letter-spacing": {
       "0": {
-        "$type": "letterSpacing",
-        "$value": "0%"
+        "value": "0%",
+        "type": "letterSpacing"
       },
       "5": {
-        "$type": "letterSpacing",
-        "$value": "5%"
+        "value": "5%",
+        "type": "letterSpacing"
       },
       "-2": {
-        "$type": "letterSpacing",
-        "$value": "-2%"
+        "value": "-2%",
+        "type": "letterSpacing"
       },
       "-1": {
-        "$type": "letterSpacing",
-        "$value": "-1%"
+        "value": "-1%",
+        "type": "letterSpacing"
       }
     },
     "line-height": {
       "100": {
-        "$type": "lineHeights",
-        "$value": "100%"
+        "value": "100%",
+        "type": "lineHeights"
       },
       "110": {
-        "$type": "lineHeights",
-        "$value": "110%"
+        "value": "110%",
+        "type": "lineHeights"
       },
       "120": {
-        "$type": "lineHeights",
-        "$value": "120%"
+        "value": "120%",
+        "type": "lineHeights"
       },
       "150": {
-        "$type": "lineHeights",
-        "$value": "150%"
+        "value": "150%",
+        "type": "lineHeights"
       }
     }
   }

@@ -1,72 +1,72 @@
 {
   "spacing": {
     "2xs": {
-      "$type": "spacing",
-      "$value": "{spacing.2}"
+      "value": "{spacing.2}",
+      "type": "spacing"
     },
     "xs": {
-      "$type": "spacing",
-      "$value": "{spacing.4}"
+      "value": "{spacing.4}",
+      "type": "spacing"
     },
     "sm": {
-      "$type": "spacing",
-      "$value": "{spacing.8}"
+      "value": "{spacing.8}",
+      "type": "spacing"
     },
     "md": {
-      "$type": "spacing",
-      "$value": "{spacing.12}"
+      "value": "{spacing.12}",
+      "type": "spacing"
     },
     "lg": {
-      "$type": "spacing",
-      "$value": "{spacing.16}"
+      "value": "{spacing.16}",
+      "type": "spacing"
     },
     "xl": {
-      "$type": "spacing",
-      "$value": "{spacing.20}"
+      "value": "{spacing.20}",
+      "type": "spacing"
     },
     "2xl": {
-      "$type": "spacing",
-      "$value": "{spacing.24}"
+      "value": "{spacing.24}",
+      "type": "spacing"
     },
     "3xl": {
-      "$type": "spacing",
-      "$value": "{spacing.28}"
+      "value": "{spacing.28}",
+      "type": "spacing"
     },
     "4xl": {
-      "$type": "spacing",
-      "$value": "{spacing.36}"
+      "value": "{spacing.36}",
+      "type": "spacing"
     },
     "5xl": {
-      "$type": "spacing",
-      "$value": "{spacing.40}"
+      "value": "{spacing.40}",
+      "type": "spacing"
     },
     "6xl": {
-      "$type": "spacing",
-      "$value": "{spacing.48}"
+      "value": "{spacing.48}",
+      "type": "spacing"
     },
     "7xl": {
-      "$type": "spacing",
-      "$value": "{spacing.56}"
+      "value": "{spacing.56}",
+      "type": "spacing"
     },
     "8xl": {
-      "$type": "spacing",
-      "$value": "{spacing.64}"
+      "value": "{spacing.64}",
+      "type": "spacing"
     },
     "9xl": {
-      "$type": "spacing",
-      "$value": "{spacing.72}"
+      "value": "{spacing.72}",
+      "type": "spacing"
     },
     "10xl": {
-      "$type": "spacing",
-      "$value": "{spacing.80}"
+      "value": "{spacing.80}",
+      "type": "spacing"
     },
     "11xl": {
-      "$type": "spacing",
-      "$value": "{spacing.96}"
+      "value": "{spacing.96}",
+      "type": "spacing"
     },
     "12xl": {
-      "$type": "spacing",
-      "$value": "{spacing.128}"
+      "value": "{spacing.128}",
+      "type": "spacing"
     }
   }
 }

@@ -1,80 +1,80 @@
 {
   "spacing": {
     "2": {
-      "$type": "dimension",
-      "$value": "2px"
+      "value": "2px",
+      "type": "dimension"
     },
     "4": {
-      "$type": "dimension",
-      "$value": "4px"
+      "value": "4px",
+      "type": "dimension"
     },
     "8": {
-      "$type": "dimension",
-      "$value": "8px"
+      "value": "8px",
+      "type": "dimension"
     },
     "12": {
-      "$type": "dimension",
-      "$value": "12px"
+      "value": "12px",
+      "type": "dimension"
     },
     "16": {
-      "$type": "dimension",
-      "$value": "16px"
+      "value": "16px",
+      "type": "dimension"
     },
     "20": {
-      "$type": "dimension",
-      "$value": "20px"
+      "value": "20px",
+      "type": "dimension"
     },
     "24": {
-      "$type": "dimension",
-      "$value": "24px"
+      "value": "24px",
+      "type": "dimension"
     },
     "28": {
-      "$type": "dimension",
-      "$value": "28px"
+      "value": "28px",
+      "type": "dimension"
     },
     "32": {
-      "$type": "dimension",
-      "$value": "32px"
+      "value": "32px",
+      "type": "dimension"
     },
     "36": {
-      "$type": "dimension",
-      "$value": "36px"
+      "value": "36px",
+      "type": "dimension"
     },
     "40": {
-      "$type": "dimension",
-      "$value": "40px"
+      "value": "40px",
+      "type": "dimension"
     },
     "44": {
-      "$type": "dimension",
-      "$value": "44px"
+      "value": "44px",
+      "type": "dimension"
     },
     "48": {
-      "$type": "dimension",
-      "$value": "48px"
+      "value": "48px",
+      "type": "dimension"
     },
     "56": {
-      "$type": "dimension",
-      "$value": "56px"
+      "value": "56px",
+      "type": "dimension"
     },
     "64": {
-      "$type": "dimension",
-      "$value": "64px"
+      "value": "64px",
+      "type": "dimension"
     },
     "72": {
-      "$type": "dimension",
-      "$value": "72px"
+      "value": "72px",
+      "type": "dimension"
     },
     "80": {
-      "$type": "dimension",
-      "$value": "80px"
+      "value": "80px",
+      "type": "dimension"
     },
     "96": {
-      "$type": "dimension",
-      "$value": "96px"
+      "value": "96px",
+      "type": "dimension"
     },
     "128": {
-      "$type": "dimension",
-      "$value": "128px"
+      "value": "128px",
+      "type": "dimension"
     }
   }
 }
