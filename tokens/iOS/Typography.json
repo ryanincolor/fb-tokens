@@ -1,0 +1,24 @@
+{
+  "border-radius": {
+    "xs": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.8}"
+    },
+    "sm": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.12}"
+    },
+    "md": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.16}"
+    },
+    "lg": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.20}"
+    },
+    "xl": {
+      "$type": "borderRadius",
+      "$value": "{border-radius.28}"
+    }
+  }
+}

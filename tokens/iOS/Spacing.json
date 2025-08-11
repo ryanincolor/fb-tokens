@@ -1,0 +1,72 @@
+{
+  "spacing": {
+    "2xs": {
+      "$type": "spacing",
+      "$value": "{spacing.2}"
+    },
+    "xs": {
+      "$type": "spacing",
+      "$value": "{spacing.4}"
+    },
+    "sm": {
+      "$type": "spacing",
+      "$value": "{spacing.8}"
+    },
+    "md": {
+      "$type": "spacing",
+      "$value": "{spacing.12}"
+    },
+    "lg": {
+      "$type": "spacing",
+      "$value": "{spacing.16}"
+    },
+    "xl": {
+      "$type": "spacing",
+      "$value": "{spacing.20}"
+    },
+    "2xl": {
+      "$type": "spacing",
+      "$value": "{spacing.24}"
+    },
+    "3xl": {
+      "$type": "spacing",
+      "$value": "{spacing.28}"
+    },
+    "4xl": {
+      "$type": "spacing",
+      "$value": "{spacing.36}"
+    },
+    "5xl": {
+      "$type": "spacing",
+      "$value": "{spacing.40}"
+    },
+    "6xl": {
+      "$type": "spacing",
+      "$value": "{spacing.48}"
+    },
+    "7xl": {
+      "$type": "spacing",
+      "$value": "{spacing.56}"
+    },
+    "8xl": {
+      "$type": "spacing",
+      "$value": "{spacing.64}"
+    },
+    "9xl": {
+      "$type": "spacing",
+      "$value": "{spacing.72}"
+    },
+    "10xl": {
+      "$type": "spacing",
+      "$value": "{spacing.80}"
+    },
+    "11xl": {
+      "$type": "spacing",
+      "$value": "{spacing.96}"
+    },
+    "12xl": {
+      "$type": "spacing",
+      "$value": "{spacing.128}"
+    }
+  }
+}

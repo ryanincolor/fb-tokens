@@ -1,0 +1,134 @@
+{
+  "font": {
+    "family": {
+      "sans": {
+        "$type": "fontFamilies",
+        "$value": "'Inter', sans-serif"
+      },
+      "mobile": {
+        "$type": "fontFamilies",
+        "$value": "'Inter', sans-serif"
+      },
+      "web": {
+        "$type": "fontFamilies",
+        "$value": "'Inter', sans-serif"
+      }
+    },
+    "size": {
+      "10": {
+        "$type": "fontSizes",
+        "$value": "10"
+      },
+      "12": {
+        "$type": "fontSizes",
+        "$value": "12"
+      },
+      "14": {
+        "$type": "fontSizes",
+        "$value": "14"
+      },
+      "16": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "18": {
+        "$type": "fontSizes",
+        "$value": "18"
+      },
+      "20": {
+        "$type": "fontSizes",
+        "$value": "20"
+      },
+      "24": {
+        "$type": "fontSizes",
+        "$value": "24"
+      },
+      "28": {
+        "$type": "fontSizes",
+        "$value": "28"
+      },
+      "34": {
+        "$type": "fontSizes",
+        "$value": "34"
+      },
+      "40": {
+        "$type": "fontSizes",
+        "$value": "40"
+      },
+      "48": {
+        "$type": "fontSizes",
+        "$value": "48"
+      },
+      "56": {
+        "$type": "fontSizes",
+        "$value": "56"
+      },
+      "64": {
+        "$type": "fontSizes",
+        "$value": "64"
+      },
+      "72": {
+        "$type": "fontSizes",
+        "$value": "72"
+      },
+      "96": {
+        "$type": "fontSizes",
+        "$value": "96"
+      }
+    },
+    "weight": {
+      "400": {
+        "$type": "fontWeights",
+        "$value": "400"
+      },
+      "500": {
+        "$type": "fontWeights",
+        "$value": "500"
+      },
+      "600": {
+        "$type": "fontWeights",
+        "$value": "600"
+      },
+      "700": {
+        "$type": "fontWeights",
+        "$value": "700"
+      }
+    },
+    "letter-spacing": {
+      "0": {
+        "$type": "letterSpacing",
+        "$value": "0%"
+      },
+      "5": {
+        "$type": "letterSpacing",
+        "$value": "5%"
+      },
+      "-2": {
+        "$type": "letterSpacing",
+        "$value": "-2%"
+      },
+      "-1": {
+        "$type": "letterSpacing",
+        "$value": "-1%"
+      }
+    },
+    "line-height": {
+      "100": {
+        "$type": "lineHeights",
+        "$value": "100%"
+      },
+      "110": {
+        "$type": "lineHeights",
+        "$value": "110%"
+      },
+      "120": {
+        "$type": "lineHeights",
+        "$value": "120%"
+      },
+      "150": {
+        "$type": "lineHeights",
+        "$value": "150%"
+      }
+    }
+  }
+}
