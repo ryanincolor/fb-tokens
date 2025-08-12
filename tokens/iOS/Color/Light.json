@@ -197,21 +197,21 @@
   },
   "status": {
     "critical": {
-      "value": "{color.hues.red}",
+      "value": "{color.hues.pink-light}",
       "type": "color"
     }
   },
   "brand": {
     "yellow": {
-      "value": "{color.hues.yellow}",
+      "value": "{color.hues.teal-light}",
       "type": "color"
     },
     "green": {
-      "value": "{color.hues.green}",
+      "value": "{color.hues.teal}",
       "type": "color"
     },
     "blue": {
-      "value": "{color.hues.blue}",
+      "value": "{color.hues.teal-dark}",
       "type": "color"
     },
     "purple": {
@@ -219,11 +219,11 @@
       "type": "color"
     },
     "pink": {
-      "value": "{color.hues.pink}",
+      "value": "{color.hues.orange}",
       "type": "color"
     },
     "orange": {
-      "value": "{color.hues.orange}",
+      "value": "{color.hues.pink-dark}",
       "type": "color"
     }
   },
