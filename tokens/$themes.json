@@ -344,12 +344,12 @@
       "color.alpha.dark.60": "c7161a61eee7bfdb5e0213a7da324f763156923d",
       "color.alpha.dark.70": "449f65f5953a18a3ec82e4bcd0b0ea8da02066b1",
       "color.alpha.dark.100": "d0d886bb4f4b6c0fc1e6fb6062eebc773fca1b0c",
-      "color.hues.teal": "69e41462809b1dfc8d550ffcc86f712564b35bc3",
-      "color.hues.teal-dark": "d3049cdba9ee660573439f86848eefdc2fb546c9",
-      "color.hues.orange": "c66a53c8d121a152299163ef56c6057c966db641",
-      "color.hues.teal-light": "9383fcd06297559d9335bcd5c5962d7123c6e5f6",
-      "color.hues.pink-light": "56823bdf8154103b5183e27594d23a5df4899e3c",
-      "color.hues.pink-dark": "b08b9d5f1cdf9771add97d6a1467852d083861a1"
+      "color.pink.200": "56823bdf8154103b5183e27594d23a5df4899e3c",
+      "color.pink.600": "b08b9d5f1cdf9771add97d6a1467852d083861a1",
+      "color.teal.200": "9383fcd06297559d9335bcd5c5962d7123c6e5f6",
+      "color.teal.400": "69e41462809b1dfc8d550ffcc86f712564b35bc3",
+      "color.teal.600": "d3049cdba9ee660573439f86848eefdc2fb546c9",
+      "color.orange.400": "c66a53c8d121a152299163ef56c6057c966db641"
     }
   },
   {
