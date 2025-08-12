@@ -397,8 +397,6 @@
     "$figmaModeId": "4:5",
     "$figmaVariableReferences": {
       "font.family.sans": "3f6d43aaff1e50aea4cd34a227a960c10ad6e7fd",
-      "font.family.mobile": "4b0b08a3645b53bb5a421e6d986c4ae50401a25f",
-      "font.family.web": "b16b80698c300e2d2bd3c665e4fc84ac239d213d",
       "font.size.10": "98fa78c828f37366575c9bcd4a248c3ddb013115",
       "font.size.12": "8e3b38df78938cdf2207ee3cf31dd31e120df8ab",
       "font.size.14": "4a4838d0a281c1b58fdfef6a5214fb554df9ae3f",
@@ -417,7 +415,9 @@
       "font.weight.400": "87f4c2151e2992d538dc1582cc6f8146ac9347f2",
       "font.weight.500": "a68ca10260b29f78ac3e5da0b10adc26de65bd42",
       "font.weight.600": "c33421892f8e990d3f6050842f65cd8ba5ae93af",
-      "font.weight.700": "9031c46b71bc1d98890befe86eab0d8c39197d6b"
+      "font.weight.700": "9031c46b71bc1d98890befe86eab0d8c39197d6b",
+      "font.family.poppins": "4b0b08a3645b53bb5a421e6d986c4ae50401a25f",
+      "font.family.inter": "b16b80698c300e2d2bd3c665e4fc84ac239d213d"
     }
   },
   {
@@ -523,7 +523,6 @@
     "$figmaCollectionId": "VariableCollectionId:9:9195",
     "$figmaModeId": "9:4",
     "$figmaVariableReferences": {
-      "font.family.mobile": "19ee610a3fcce4df311090e9e158edf8d570df13",
       "font.weight.regular": "f8bf5851ea7ce7d6db8cc114bf73c27f2c7d59a7",
       "font.weight.medium": "1b0fecc689da3b31bbae13bc9b37938e945a13e9",
       "font.weight.semibold": "fe9d7a61c8d30f4372b856ab36a3060c2b921080",
@@ -545,7 +544,8 @@
       "font.size.headline.lg": "41119f06f6d1c8d3910c731c2c3499617e593df6",
       "font.size.headline.xl": "c068ffa198ce6bb0846ee858b592a494f13ebe9f",
       "font.size.headline.2xl": "f0bac5989f47972d9f1ec9f63d54a3be3bde39d3",
-      "font.size.headline.3xl": "7d597e9ba2d7b9c888fc1eda2846734c906d2c77"
+      "font.size.headline.3xl": "7d597e9ba2d7b9c888fc1eda2846734c906d2c77",
+      "font.family.poppins": "19ee610a3fcce4df311090e9e158edf8d570df13"
     }
   },
   {

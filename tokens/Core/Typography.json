@@ -5,11 +5,11 @@
         "value": "'Inter', sans-serif",
         "type": "fontFamilies"
       },
-      "mobile": {
-        "value": "'Inter', sans-serif",
+      "poppins": {
+        "value": "'Poppins', sans-serif",
         "type": "fontFamilies"
       },
-      "web": {
+      "inter": {
         "value": "'Inter', sans-serif",
         "type": "fontFamilies"
       }
