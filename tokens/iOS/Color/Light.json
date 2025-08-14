@@ -16,15 +16,15 @@
     },
     "alpha": {
       "1": {
-        "value": "{color.alpha.light.0}",
-        "type": "color"
-      },
-      "2": {
         "value": "{color.alpha.light.5}",
         "type": "color"
       },
+      "2": {
+        "value": "{color.alpha.light.10}",
+        "type": "color"
+      },
       "3": {
-        "value": "{color.alpha.light.0}",
+        "value": "{color.alpha.light.20}",
         "type": "color"
       }
     }
