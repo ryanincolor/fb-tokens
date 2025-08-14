@@ -16,7 +16,7 @@
     },
     "alpha": {
       "1": {
-        "value": "{color.alpha.dark.10}",
+        "value": "{color.alpha.dark.20}",
         "type": "color"
       },
       "2": {
