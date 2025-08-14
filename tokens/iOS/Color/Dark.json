@@ -1,15 +1,15 @@
 {
   "surface": {
     "solid": {
-      "1": {
+      "0": {
         "value": "{color.solid.dark.5}",
         "type": "color"
       },
-      "2": {
+      "1": {
         "value": "{color.solid.dark.10}",
         "type": "color"
       },
-      "3": {
+      "2": {
         "value": "{color.solid.dark.20}",
         "type": "color"
       }
