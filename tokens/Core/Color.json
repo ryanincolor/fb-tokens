@@ -93,7 +93,7 @@
           "type": "color"
         },
         "10": {
-          "value": "#0000000f",
+          "value": "rgba(0,0,0,0.09)",
           "type": "color"
         },
         "20": {
@@ -135,7 +135,7 @@
           "type": "color"
         },
         "20": {
-          "value": "#ffffff1f",
+          "value": "rgba(233,233,233,0.09)",
           "type": "color"
         },
         "30": {

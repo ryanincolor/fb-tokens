@@ -77,8 +77,9 @@
     "$figmaCollectionId": "VariableCollectionId:9:8537",
     "$figmaModeId": "9:1",
     "$figmaVariableReferences": {
+      "surface.solid.0": "75294097c972b70dee0ef2911cf51d2f9b26a0e3",
+      "surface.solid.1": "27570cd3f3ee7d67bb728f2114d945ab88b62be1",
       "surface.solid.2": "9f2543cdd87672ee939a6253eb93ef4bcac77ed9",
-      "surface.solid.3": "8eaa523dc78f1bfe6c1ec9ee020da6d86e0f9ddb",
       "surface.alpha.1": "93a6a81e2295b3f7044806937e8edca76b164d1c",
       "surface.alpha.2": "62aaf246cd536f63e06a979d6bb8f7220b76e768",
       "surface.alpha.3": "8c8ff18da2a5c788b9f56f92815bf88cba689574",
@@ -118,8 +119,7 @@
       "on-surface.secondary": "57f7f5fa7491688e979cf69d9bc0d7c304362339",
       "on-surface.tertiary": "e4ffe4e3349e8b9dec1e0efc92b792b34192b278",
       "on-surface.on-dark": "fd286190ae3f4f1f057192e1416cb15f8f1ab400",
-      "on-surface.on-light": "d49435efca48647b2868862ead12dfde577172bd",
-      "surface.solid.0": "75294097c972b70dee0ef2911cf51d2f9b26a0e3"
+      "on-surface.on-light": "d49435efca48647b2868862ead12dfde577172bd"
     }
   },
   {
@@ -200,8 +200,9 @@
     "$figmaCollectionId": "VariableCollectionId:9:8537",
     "$figmaModeId": "9:2",
     "$figmaVariableReferences": {
+      "surface.solid.0": "75294097c972b70dee0ef2911cf51d2f9b26a0e3",
+      "surface.solid.1": "27570cd3f3ee7d67bb728f2114d945ab88b62be1",
       "surface.solid.2": "9f2543cdd87672ee939a6253eb93ef4bcac77ed9",
-      "surface.solid.3": "8eaa523dc78f1bfe6c1ec9ee020da6d86e0f9ddb",
       "surface.alpha.1": "93a6a81e2295b3f7044806937e8edca76b164d1c",
       "surface.alpha.2": "62aaf246cd536f63e06a979d6bb8f7220b76e768",
       "surface.alpha.3": "8c8ff18da2a5c788b9f56f92815bf88cba689574",
@@ -241,8 +242,7 @@
       "on-surface.secondary": "57f7f5fa7491688e979cf69d9bc0d7c304362339",
       "on-surface.tertiary": "e4ffe4e3349e8b9dec1e0efc92b792b34192b278",
       "on-surface.on-dark": "fd286190ae3f4f1f057192e1416cb15f8f1ab400",
-      "on-surface.on-light": "d49435efca48647b2868862ead12dfde577172bd",
-      "surface.solid.0": "75294097c972b70dee0ef2911cf51d2f9b26a0e3"
+      "on-surface.on-light": "d49435efca48647b2868862ead12dfde577172bd"
     }
   },
   {
