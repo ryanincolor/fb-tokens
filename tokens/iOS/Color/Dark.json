@@ -1,5 +1,5 @@
 {
-  "elevation": {
+  "surface": {
     "solid": {
       "0": {
         "value": "{color.solid.dark.5}",
@@ -19,22 +19,6 @@
       },
       "4": {
         "value": "{color.solid.dark.50}",
-        "type": "color"
-      },
-      "5": {
-        "value": "{color.solid.dark.40}",
-        "type": "color"
-      },
-      "6": {
-        "value": "{color.solid.dark.60}",
-        "type": "color"
-      },
-      "7": {
-        "value": "{color.solid.dark.70}",
-        "type": "color"
-      },
-      "8": {
-        "value": "{color.solid.dark.100}",
         "type": "color"
       }
     },
@@ -57,22 +41,6 @@
       },
       "4": {
         "value": "{color.alpha.dark.30}",
-        "type": "color"
-      },
-      "5": {
-        "value": "{color.alpha.dark.40}",
-        "type": "color"
-      },
-      "6": {
-        "value": "{color.alpha.dark.60}",
-        "type": "color"
-      },
-      "7": {
-        "value": "{color.alpha.dark.70}",
-        "type": "color"
-      },
-      "8": {
-        "value": "{color.alpha.dark.100}",
         "type": "color"
       }
     }
