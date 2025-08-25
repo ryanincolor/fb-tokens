@@ -2,15 +2,15 @@
   "surface": {
     "solid": {
       "0": {
-        "value": "{color.solid.light.0}",
-        "type": "color"
-      },
-      "1": {
         "value": "{color.solid.light.5}",
         "type": "color"
       },
-      "2": {
+      "1": {
         "value": "{color.solid.light.0}",
+        "type": "color"
+      },
+      "2": {
+        "value": "{color.solid.light.5}",
         "type": "color"
       }
     },
@@ -167,7 +167,7 @@
       "type": "color"
     },
     "purple": {
-      "value": "{color.hues.purple}",
+      "value": "{color.alpha.dark.100}",
       "type": "color"
     },
     "pink": {
@@ -181,23 +181,23 @@
   },
   "on-surface": {
     "primary": {
-      "value": "{elevation.solid.8}",
+      "value": "#061D33",
       "type": "color"
     },
     "secondary": {
-      "value": "{elevation.solid.6}",
+      "value": "#3F5162",
       "type": "color"
     },
     "tertiary": {
-      "value": "{elevation.solid.5}",
+      "value": "#6A7785",
       "type": "color"
     },
     "on-dark": {
-      "value": "{elevation.solid.0}",
+      "value": "#fff",
       "type": "color"
     },
     "on-light": {
-      "value": "{elevation.solid.8}",
+      "value": "#061D33",
       "type": "color"
     }
   }
