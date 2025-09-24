@@ -1,5 +1,9 @@
 {
   "border-radius": {
+    "2xs": {
+      "value": "{border-radius.4}",
+      "type": "borderRadius"
+    },
     "xs": {
       "value": "{border-radius.8}",
       "type": "borderRadius"
