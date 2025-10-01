@@ -1,45 +1,59 @@
 {
   "surface": {
-    "solid": {
-      "0": {
-        "value": "#f5f6f7",
-        "type": "color"
-      },
-      "1": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "2": {
-        "value": "#f5f6f7",
-        "type": "color"
-      }
+    "primary": {
+      "value": "#f5f6f7",
+      "type": "color"
     },
-    "alpha": {
-      "1": {
-        "value": "#00000008",
-        "type": "color"
-      },
-      "2": {
-        "value": "#00000017",
-        "type": "color"
-      },
-      "3": {
-        "value": "#e9e9e90d",
-        "type": "color"
-      }
+    "secondary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "#f5f6f7",
+      "type": "color"
+    }
+  },
+  "surface-elevated": {
+    "primary": {
+      "value": "#f5f6f7",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "#f5f6f7",
+      "type": "color"
+    }
+  },
+  "surface-alpha": {
+    "primary": {
+      "value": "#00000008",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#00000017",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "#e9e9e90d",
+      "type": "color"
     }
   },
   "status": {
     "success": {
-      "value": "#14c541",
-      "type": "color"
+      "default": {
+        "value": "#14c541",
+        "type": "color"
+      }
     },
     "error": {
       "default": {
         "value": "#ff261a",
         "type": "color"
       },
-      "error-increased-contrast": {
+      "increased-contrast": {
         "value": "#cc1e15",
         "type": "color"
       }
