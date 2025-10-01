@@ -13,20 +13,6 @@
       "type": "color"
     }
   },
-  "surface-elevated": {
-    "primary": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "secondary": {
-      "value": "#f5f6f7",
-      "type": "color"
-    },
-    "tertiary": {
-      "value": "#ffffff",
-      "type": "color"
-    }
-  },
   "surface-alpha": {
     "primary": {
       "value": "#00000008",

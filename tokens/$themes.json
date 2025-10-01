@@ -11,9 +11,8 @@
     "$figmaModeId": "9:1",
     "$figmaVariableReferences": {
       "surface.primary": "75294097c972b70dee0ef2911cf51d2f9b26a0e3",
+      "surface.secondary": "fc7bdd52fb627cab581064619218b5146f02964e",
       "surface.tertiary": "27570cd3f3ee7d67bb728f2114d945ab88b62be1",
-      "surface-elevated.primary": "0ae3cf871664970855165467620789f431399058",
-      "surface-elevated.tertiary": "bead07976b759287d35fe1637342dadbbe71fb55",
       "surface-alpha.primary": "79795cd3ab60e2b9dfcc95c3723c149d3b73486d",
       "surface-alpha.secondary": "381e5fc1f1a852b3ec0d7d59e69ac4b26e292c6e",
       "surface-alpha.tertiary": "daac06da4c079d05af94b035bb7a3858aa826d41",
@@ -52,8 +51,11 @@
       "action.on-dark.pressed": "c074e9762c66e9225dda1c9035310fa65190148b",
       "action.on-dark.on-dark": "4d6b34d0b84652d64a57a2f173fdf48d27906de4",
       "action.on-dark.on-dark-disabled": "497162c7e5c4040480333e60d6ebafb8d8071572",
-      "status.success": "c716748c45b4c82d8bd121cdf7549a64b449df68",
-      "status.error.error-increased-contrast": "7846d289d484e7cd10bade71b66b1d9891e2e04b"
+      "surface-elevated.primary": "0ae3cf871664970855165467620789f431399058",
+      "surface-elevated.tertiary": "bead07976b759287d35fe1637342dadbbe71fb55",
+      "status.success": "2f2cf382c96978c407203b1e752d3adc945a91e6",
+      "status.error.error-increased-contrast": "09d28ec36471ff0230f7d5d4ef050dbdb6782a07",
+      "surface-elevated.secondary": "d90138111841a4fd570f7442d4a29b8931568b03"
     }
   },
   {
@@ -69,8 +71,6 @@
     "$figmaVariableReferences": {
       "surface.primary": "75294097c972b70dee0ef2911cf51d2f9b26a0e3",
       "surface.tertiary": "27570cd3f3ee7d67bb728f2114d945ab88b62be1",
-      "surface-elevated.primary": "0ae3cf871664970855165467620789f431399058",
-      "surface-elevated.tertiary": "bead07976b759287d35fe1637342dadbbe71fb55",
       "surface-alpha.primary": "79795cd3ab60e2b9dfcc95c3723c149d3b73486d",
       "surface-alpha.secondary": "381e5fc1f1a852b3ec0d7d59e69ac4b26e292c6e",
       "surface-alpha.tertiary": "daac06da4c079d05af94b035bb7a3858aa826d41",
@@ -110,9 +110,8 @@
       "action.on-dark.on-dark": "4d6b34d0b84652d64a57a2f173fdf48d27906de4",
       "action.on-dark.on-dark-disabled": "497162c7e5c4040480333e60d6ebafb8d8071572",
       "surface.secondary": "fc7bdd52fb627cab581064619218b5146f02964e",
-      "surface-elevated.secondary": "d90138111841a4fd570f7442d4a29b8931568b03",
-      "status.success.default": "775c237edcbba9d6231537b6843e70a75e284773",
-      "status.error.increased-contrast": "f4a442ce79e8bd3f84452c6a06ca6c43c122fa77"
+      "status.success.default": "f5b468e00cf40f707c71adf62ce2e25ff98417b8",
+      "status.error.increased-contrast": "e1322fed93db1cc8879de07da5f8bc606d658601"
     }
   },
   {
