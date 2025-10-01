@@ -1,29 +1,29 @@
 {
   "surface": {
-    "1": {
-      "value": "#101b29",
-      "type": "color"
-    },
     "primary": {
       "value": "#05101e",
       "type": "color"
     },
     "tertiary": {
       "value": "#182332",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#101b29",
       "type": "color"
     }
   },
   "surface-elevated": {
-    "1": {
-      "value": "#101b29",
-      "type": "color"
-    },
     "primary": {
       "value": "#05101e",
       "type": "color"
     },
     "tertiary": {
       "value": "#182332",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#101b29",
       "type": "color"
     }
   },
