@@ -6,7 +6,7 @@
     "selectedTokenSets": {
       "iOS/Color/Dark": "enabled"
     },
-    "group": "IOS/Color",
+    "group": "iOS/Color",
     "$figmaCollectionId": "VariableCollectionId:9:8537",
     "$figmaModeId": "9:1",
     "$figmaVariableReferences": {
@@ -35,24 +35,19 @@
       "action.tertiary.enabled": "ecb95280d85ffae2bfefc2304e8e7b54c811e89d",
       "action.on-dark.enabled": "b7368f1caf1dca08e4fd49520670e6fba72dd218",
       "action.on-dark.disabled": "806d6b706b254711e23e9df9a606f9a261cf9cfb",
-      "action.primary.hover": "57ca865fd3ad8e0b30969b822bc8d0d7c3a10d30",
-      "action.primary.active": "e66efd15e30cea898c75053cbbe0fa4a6f03174f",
-      "action.secondary.hover": "ea64884637099b97188720c8ba18cd797cbc77fd",
-      "action.secondary.active": "6fbee434121e11ceb05be68327675773c6badf92",
-      "action.on-dark.hover": "3e80e3929c30129b1b6686e659d5280e886e30b3",
-      "action.on-dark.active": "bfba26b6053be1573b06fd6ee224f65b263ca526",
-      "action.on-light.enabled": "4a80f409b5885cfd11c8169b6a30a7e3d3212c66",
-      "action.on-light.hover": "6f7580e7c629871456e84f933098c7b6a702b3ad",
-      "action.on-light.active": "1e71cc8e23430cd0db7cb3d6417e458c23c7ced3",
-      "action.on-light.disabled": "061e0626a1ce08920730079317a2a25574c08b5c",
-      "action.alpha.secondary.enabled": "cb36c9b60aa79eb5499273b5870210ad34a996ac",
-      "action.alpha.secondary.hover": "f7286bace4a9e4a40b5b1332958fbb3b73cd2810",
-      "action.alpha.secondary.active": "cec5eb2c4b70bce12fce6fee6b30d0c1886a7d4b",
-      "action.on-action.primary": "5eda6bdec568610d9fcf6c197d6f6aed563fc86b",
-      "action.on-action.secondary": "5d731d81b39ff783a5a13d3205a8eed1ff5d06a1",
-      "action.on-action.dark": "87d3207c801edd96c335a3fd06e3612e0cae59a2",
-      "action.on-action.light": "7159738ec2d81549ea602ea7581df948c0bb658c",
-      "action.on-action.disabled": "ab8b4c7bf95f2f652ec0b5df45e09355e12c1ce8"
+      "action.primary.pressed": "f52778ca790c813392ac1e547af13e269ae1b784",
+      "action.secondary.pressed": "e7db674bf022aca3b383c114e70bcd2fb70902b3",
+      "action.tertiary.pressed": "9cc61ee8cd7ff77032b9cd9475241fc2e141056e",
+      "action.tertiary.disabled": "f478b63364134ac0f88343353fb6dc93fbcba49d",
+      "action.on-dark.pressed": "c074e9762c66e9225dda1c9035310fa65190148b",
+      "action.primary.on-primary": "36dff644c264cec1f5aa7fbacf72f23f093e9115",
+      "action.secondary.on-secondary": "a2b75c5f656cc190937e19ad6bd7c44db0442ff6",
+      "action.tertiary.on-tertiary": "192f2e4ee893fb628b3cf2b3f085a7e8967c667a",
+      "action.secondary.on-secondary-disabled": "89da70e401d692f246ca5eb77585fce41c0a45a8",
+      "action.on-dark.on-dark": "4d6b34d0b84652d64a57a2f173fdf48d27906de4",
+      "action.tertiary.on-tertiary-disabled": "61bf54c6627dc669c41e49579f5b530f46cda27e",
+      "action.primary.on-primary-disabled": "cd03ff3a0a44d9740a221159af885a98caa0a484",
+      "action.on-dark.on-dark-disabled": "497162c7e5c4040480333e60d6ebafb8d8071572"
     }
   },
   {
@@ -62,7 +57,7 @@
     "selectedTokenSets": {
       "iOS/Color/Light": "enabled"
     },
-    "group": "IOS/Color",
+    "group": "iOS/Color",
     "$figmaCollectionId": "VariableCollectionId:9:8537",
     "$figmaModeId": "9:2",
     "$figmaVariableReferences": {
@@ -91,24 +86,19 @@
       "action.tertiary.enabled": "ecb95280d85ffae2bfefc2304e8e7b54c811e89d",
       "action.on-dark.enabled": "b7368f1caf1dca08e4fd49520670e6fba72dd218",
       "action.on-dark.disabled": "806d6b706b254711e23e9df9a606f9a261cf9cfb",
-      "action.primary.hover": "57ca865fd3ad8e0b30969b822bc8d0d7c3a10d30",
-      "action.primary.active": "e66efd15e30cea898c75053cbbe0fa4a6f03174f",
-      "action.secondary.hover": "ea64884637099b97188720c8ba18cd797cbc77fd",
-      "action.secondary.active": "6fbee434121e11ceb05be68327675773c6badf92",
-      "action.on-dark.hover": "3e80e3929c30129b1b6686e659d5280e886e30b3",
-      "action.on-dark.active": "bfba26b6053be1573b06fd6ee224f65b263ca526",
-      "action.on-light.enabled": "4a80f409b5885cfd11c8169b6a30a7e3d3212c66",
-      "action.on-light.hover": "6f7580e7c629871456e84f933098c7b6a702b3ad",
-      "action.on-light.active": "1e71cc8e23430cd0db7cb3d6417e458c23c7ced3",
-      "action.on-light.disabled": "061e0626a1ce08920730079317a2a25574c08b5c",
-      "action.alpha.secondary.enabled": "cb36c9b60aa79eb5499273b5870210ad34a996ac",
-      "action.alpha.secondary.hover": "f7286bace4a9e4a40b5b1332958fbb3b73cd2810",
-      "action.alpha.secondary.active": "cec5eb2c4b70bce12fce6fee6b30d0c1886a7d4b",
-      "action.on-action.primary": "5eda6bdec568610d9fcf6c197d6f6aed563fc86b",
-      "action.on-action.secondary": "5d731d81b39ff783a5a13d3205a8eed1ff5d06a1",
-      "action.on-action.dark": "87d3207c801edd96c335a3fd06e3612e0cae59a2",
-      "action.on-action.light": "7159738ec2d81549ea602ea7581df948c0bb658c",
-      "action.on-action.disabled": "ab8b4c7bf95f2f652ec0b5df45e09355e12c1ce8"
+      "action.primary.pressed": "f52778ca790c813392ac1e547af13e269ae1b784",
+      "action.secondary.pressed": "e7db674bf022aca3b383c114e70bcd2fb70902b3",
+      "action.tertiary.pressed": "9cc61ee8cd7ff77032b9cd9475241fc2e141056e",
+      "action.tertiary.disabled": "f478b63364134ac0f88343353fb6dc93fbcba49d",
+      "action.on-dark.pressed": "c074e9762c66e9225dda1c9035310fa65190148b",
+      "action.primary.on-primary": "36dff644c264cec1f5aa7fbacf72f23f093e9115",
+      "action.secondary.on-secondary": "a2b75c5f656cc190937e19ad6bd7c44db0442ff6",
+      "action.tertiary.on-tertiary": "192f2e4ee893fb628b3cf2b3f085a7e8967c667a",
+      "action.secondary.on-secondary-disabled": "89da70e401d692f246ca5eb77585fce41c0a45a8",
+      "action.on-dark.on-dark": "4d6b34d0b84652d64a57a2f173fdf48d27906de4",
+      "action.tertiary.on-tertiary-disabled": "61bf54c6627dc669c41e49579f5b530f46cda27e",
+      "action.primary.on-primary-disabled": "cd03ff3a0a44d9740a221159af885a98caa0a484",
+      "action.on-dark.on-dark-disabled": "497162c7e5c4040480333e60d6ebafb8d8071572"
     }
   },
   {

@@ -32,7 +32,7 @@
   "action": {
     "primary": {
       "enabled": {
-        "value": "{elevation.solid.8}",
+        "value": "#ffffff",
         "type": "color"
       },
       "hover": {
@@ -44,13 +44,25 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{elevation.alpha.2}",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-primary-disabled": {
+        "value": "#ffffff",
         "type": "color"
       }
     },
     "secondary": {
       "enabled": {
-        "value": "{elevation.solid.2}",
+        "value": "#ffffff",
         "type": "color"
       },
       "hover": {
@@ -62,19 +74,47 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{elevation.alpha.2}",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-secondary-disabled": {
+        "value": "#ffffff",
         "type": "color"
       }
     },
     "tertiary": {
       "enabled": {
-        "value": "{elevation.solid.3}",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-tertiary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-tertiary-disabled": {
+        "value": "#ffffff",
         "type": "color"
       }
     },
     "on-dark": {
       "enabled": {
-        "value": "{color.solid.light.0}",
+        "value": "#ffffff",
         "type": "color"
       },
       "hover": {
@@ -86,7 +126,19 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{color.solid.light.30}",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-dark": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "on-dark-disabled": {
+        "value": "#ffffff",
         "type": "color"
       }
     },
@@ -167,7 +219,7 @@
       "type": "color"
     },
     "purple": {
-      "value": "{color.hues.purple}",
+      "value": "#ffffff",
       "type": "color"
     },
     "pink": {
