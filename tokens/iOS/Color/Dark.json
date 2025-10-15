@@ -140,7 +140,7 @@
         "type": "color"
       },
       "on-primary": {
-        "value": "#ffffff",
+        "value": "##0c3154",
         "type": "color"
       },
       "on-primary-disabled": {
