@@ -29,8 +29,6 @@
       "on-surface.primary": "9bc94e375b1996831f3f735cdd004b8cdfa8c091",
       "on-surface.secondary": "57f7f5fa7491688e979cf69d9bc0d7c304362339",
       "on-surface.tertiary": "e4ffe4e3349e8b9dec1e0efc92b792b34192b278",
-      "on-surface.on-dark": "fd286190ae3f4f1f057192e1416cb15f8f1ab400",
-      "on-surface.on-light": "d49435efca48647b2868862ead12dfde577172bd",
       "action.primary.enabled": "4f6b09a40bf557c8df23aa11b7470b71564ec976",
       "action.primary.disabled": "07f92fab002b3cfaf722adf9c0300ee12c5feb5f",
       "action.primary.pressed": "f52778ca790c813392ac1e547af13e269ae1b784",
@@ -55,7 +53,8 @@
       "surface-elevated.tertiary": "2adfb65de88f2a00b08996f6e0b95b01f193f734",
       "status.success": "d874c1470bb5279832c44a8c6408f7aa9cb3755d",
       "status.error.error-increased-contrast": "83de91e4affc721a935eea7ba5d9d32729a48deb",
-      "surface-elevated.secondary": "4e70ab4e942a39dd6c8df9e9ce2cb03ef6ee64db"
+      "surface-elevated.secondary": "4e70ab4e942a39dd6c8df9e9ce2cb03ef6ee64db",
+      "on-surface.force-light": "d49435efca48647b2868862ead12dfde577172bd"
     }
   },
   {
@@ -87,8 +86,6 @@
       "on-surface.primary": "9bc94e375b1996831f3f735cdd004b8cdfa8c091",
       "on-surface.secondary": "57f7f5fa7491688e979cf69d9bc0d7c304362339",
       "on-surface.tertiary": "e4ffe4e3349e8b9dec1e0efc92b792b34192b278",
-      "on-surface.on-dark": "fd286190ae3f4f1f057192e1416cb15f8f1ab400",
-      "on-surface.on-light": "d49435efca48647b2868862ead12dfde577172bd",
       "action.primary.enabled": "4f6b09a40bf557c8df23aa11b7470b71564ec976",
       "action.primary.disabled": "07f92fab002b3cfaf722adf9c0300ee12c5feb5f",
       "action.primary.pressed": "f52778ca790c813392ac1e547af13e269ae1b784",
@@ -111,7 +108,8 @@
       "action.on-dark.on-dark-disabled": "497162c7e5c4040480333e60d6ebafb8d8071572",
       "surface.secondary": "fc7bdd52fb627cab581064619218b5146f02964e",
       "status.success.default": "f5b468e00cf40f707c71adf62ce2e25ff98417b8",
-      "status.error.increased-contrast": "e1322fed93db1cc8879de07da5f8bc606d658601"
+      "status.error.increased-contrast": "e1322fed93db1cc8879de07da5f8bc606d658601",
+      "on-surface.force-light": "d49435efca48647b2868862ead12dfde577172bd"
     }
   },
   {

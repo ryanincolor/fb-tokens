@@ -104,11 +104,11 @@
       "value": "#6a7785",
       "type": "color"
     },
-    "on-dark": {
+    "force-light": {
       "value": "#ffffff",
       "type": "color"
     },
-    "on-light": {
+    "force-dark": {
       "value": "#061d33",
       "type": "color"
     }
