@@ -15,15 +15,15 @@
   },
   "surface-alpha": {
     "primary": {
-      "value": "rgba(36,36,36,0.8)",
+      "value": "rgba(36,36,36,0.04)",
       "type": "color"
     },
     "secondary": {
-      "value": "#00000017",
+      "value": "rgba(0,0,0,0.08)",
       "type": "color"
     },
     "tertiary": {
-      "value": "rgba(0,0,0,0.11)",
+      "value": "rgba(0,0,0,0.1)",
       "type": "color"
     }
   },
