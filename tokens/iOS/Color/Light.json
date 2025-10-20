@@ -23,7 +23,7 @@
       "type": "color"
     },
     "tertiary": {
-      "value": "#e9e9e90d",
+      "value": "rgba(0,0,0,0.11)",
       "type": "color"
     }
   },
