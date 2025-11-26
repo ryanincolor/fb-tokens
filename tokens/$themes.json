@@ -476,6 +476,8 @@
     "$figmaCollectionId": "VariableCollectionId:9:9195",
     "$figmaModeId": "9:4",
     "$figmaVariableReferences": {
+      "font.family.brand": "f046cd136dd7700047ce4a0acc0780dee87a8ad9",
+      "font.family.ui": "3acdc9cc84cf3861112ebb5894739e4acb33043d",
       "font.weight.regular": "f8bf5851ea7ce7d6db8cc114bf73c27f2c7d59a7",
       "font.weight.medium": "1b0fecc689da3b31bbae13bc9b37938e945a13e9",
       "font.weight.semibold": "fe9d7a61c8d30f4372b856ab36a3060c2b921080",
@@ -497,8 +499,7 @@
       "font.size.headline.lg": "41119f06f6d1c8d3910c731c2c3499617e593df6",
       "font.size.headline.xl": "c068ffa198ce6bb0846ee858b592a494f13ebe9f",
       "font.size.headline.2xl": "f0bac5989f47972d9f1ec9f63d54a3be3bde39d3",
-      "font.size.headline.3xl": "7d597e9ba2d7b9c888fc1eda2846734c906d2c77",
-      "font.family.poppins": "19ee610a3fcce4df311090e9e158edf8d570df13"
+      "font.size.headline.3xl": "7d597e9ba2d7b9c888fc1eda2846734c906d2c77"
     }
   },
   {

@@ -465,7 +465,7 @@
       },
       "body": {
         "sm": {
-          "value": "{font.size.12}",
+          "value": "13",
           "type": "fontSizes"
         },
         "md": {
@@ -483,7 +483,7 @@
       },
       "label": {
         "sm": {
-          "value": "{font.size.12}",
+          "value": "11",
           "type": "fontSizes"
         },
         "md": {
@@ -501,19 +501,19 @@
       },
       "headline": {
         "sm": {
-          "value": "{font.size.18}",
+          "value": "17",
           "type": "fontSizes"
         },
         "md": {
-          "value": "{font.size.20}",
+          "value": "22",
           "type": "fontSizes"
         },
         "lg": {
-          "value": "{font.size.24}",
+          "value": "28",
           "type": "fontSizes"
         },
         "xl": {
-          "value": "{font.size.28}",
+          "value": "34",
           "type": "fontSizes"
         },
         "2xl": {
